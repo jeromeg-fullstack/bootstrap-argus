@@ -5,6 +5,7 @@ import MobileMenu from "../components/MobileMenu";
 import Slider from '../components/Slider/home';
 import About from '../components/About/home';
 import Features from '../components/Features'
+import Services from '../components/Services'
 
 const Home = () => {
   return (
@@ -13,6 +14,7 @@ const Home = () => {
       <Slider/>
       <About/>
       <Features classes="sp-top"/>
+      <Services classes="sm-top-wt"/>
       <MobileMenu/>
       <LoginRegister/>
     </React.Fragment>

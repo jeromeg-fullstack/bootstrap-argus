@@ -1,20 +1,20 @@
 [
   {
     "id": 1,
-    "title": "Creative Team",
-    "text": "We have creative team, they always ready to help you.",
+    "title": "Expert Team",
+    "text": "We have a team of experts and reliable installers.",
     "imgSrc": "feature/01.png"
   },
   {
     "id": 2,
     "title": "Best Service",
-    "text": "We have creative team, they always ready to help you.",
+    "text": "We make sure all equipment are brand new and properly installed.",
     "imgSrc": "feature/02.png"
   },
   {
     "id": 3,
-    "title": "Online Support",
-    "text": "We have creative team, they always ready to help you.",
+    "title": "Tech Support",
+    "text": "You can contact our tech support team for installations and how-tos.",
     "imgSrc": "feature/03.png"
   }
 ]
