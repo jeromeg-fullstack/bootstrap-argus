@@ -4,6 +4,7 @@ import LoginRegister from "../components/LoginRegister";
 import MobileMenu from "../components/MobileMenu";
 import Slider from '../components/Slider/home';
 import About from '../components/About/home';
+import Features from '../components/Features'
 
 const Home = () => {
   return (
@@ -11,6 +12,7 @@ const Home = () => {
       <Header/>
       <Slider/>
       <About/>
+      <Features classes="sp-top"/>
       <MobileMenu/>
       <LoginRegister/>
     </React.Fragment>

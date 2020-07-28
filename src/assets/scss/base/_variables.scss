@@ -1,18 +1,18 @@
 //== Typography Variable
-$baseFont: 'Lato', sans-serif;
+$baseFont: 'Open Sans', sans-serif;
 $baseFontSize: 15px;
 $mdi-icon: 'Material Design Icons';
 $fa-icon: 'FontAwesome';
 
 //== Site Typography Colors
 $paragraph: #151515;
-$headingColor: #0B284B;
+$headingColor: #151515;
 $ashColor: #aaaaaa;
 $borderColor: #eee;
 $hvrColor: #182141;
 
 //== Site Brand Color
-$brandColor: #0B284B;
+$brandColor: #151515;
 $brandColorDark: darken($brandColor, 15%);
 $brandColorLight: lighten($brandColor, 15%);
 
