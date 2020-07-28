@@ -87,7 +87,7 @@ Button Style
 -----------------------*/
 .btn {
   &-brand {
-    background-color: $brandColor;
+    background-image: linear-gradient(to bottom right, $brandColor, $brandColorLight);
     border-radius: 100px;
     color: $white;
     padding: 16px 40px;
