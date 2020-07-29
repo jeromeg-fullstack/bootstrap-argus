@@ -10,6 +10,9 @@ import Testimonials from "../components/Testimonials/home";
 import Team from "../components/Team/home";
 import Blog from "../components/Blog";
 import BrandLogo from "../components/BrandLogo";
+import Funfact from "../components/Funfact";
+import CallToAction from "../components/CallToAction";
+import Footer from "../components/Footer";
 
 const Home = () => {
   return (
@@ -23,6 +26,9 @@ const Home = () => {
       <Team/>
       <Blog/>
       <BrandLogo/>
+      <Funfact/>
+      <CallToAction/>
+      <Footer/>
       <MobileMenu/>
       <LoginRegister/>
     </React.Fragment>
