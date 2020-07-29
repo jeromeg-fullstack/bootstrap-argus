@@ -8,6 +8,7 @@ import Features from '../components/Features'
 import Services from '../components/Services'
 import Testimonials from "../components/Testimonials/home";
 import Team from "../components/Team/home";
+import Blog from "../components/Blog";
 
 const Home = () => {
   return (
@@ -19,6 +20,7 @@ const Home = () => {
       <Services classes="sm-top-wt"/>
       <Testimonials/>
       <Team/>
+      <Blog/>
       <MobileMenu/>
       <LoginRegister/>
     </React.Fragment>
