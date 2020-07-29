@@ -9,6 +9,7 @@ import Services from '../components/Services'
 import Testimonials from "../components/Testimonials/home";
 import Team from "../components/Team/home";
 import Blog from "../components/Blog";
+import BrandLogo from "../components/BrandLogo";
 
 const Home = () => {
   return (
@@ -21,6 +22,7 @@ const Home = () => {
       <Testimonials/>
       <Team/>
       <Blog/>
+      <BrandLogo/>
       <MobileMenu/>
       <LoginRegister/>
     </React.Fragment>
