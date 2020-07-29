@@ -30,7 +30,7 @@
   {
     "id": 5,
     "title": "Blog",
-    "link": "/blog-grid-right-sidebar",
+    "link": "/blog",
     "megaMenu": false,
     "subMenu": false
   },
