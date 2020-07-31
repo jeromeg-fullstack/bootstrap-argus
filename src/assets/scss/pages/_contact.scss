@@ -67,7 +67,7 @@
   }
 
   &.contact-information {
-    background-color: $brandColor;
+    background-image: linear-gradient(to bottom right, $brandColor, $brandColorLight);
     height: 100%;
     color: $white;
     padding: 45px 30px;

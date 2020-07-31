@@ -17,7 +17,7 @@ function Services({ classes }) {
               <SectionTitle
                 variant='light'
                 title='Products & Services'
-                heading='Protect your Home and Properties'
+                heading='Protect your Home and Business'
               />
             </div>
           </div>

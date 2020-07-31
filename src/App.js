@@ -6,9 +6,11 @@ import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
  */
 
 import Home from './pages/Home';
-import ScrollToTop from "./helpers/ScrollToTop";
-import About from "./pages/About";
-import Contact from "./pages/Contact";
+import ScrollToTop from './helpers/ScrollToTop';
+import About from './pages/About';
+import Contact from './pages/Contact';
+import Service from './pages/Service';
+import ServiceDetails from "./pages/ServiceDetails";
 
 const App = () => {
   return (
@@ -25,6 +27,12 @@ const App = () => {
             path={`${process.env.PUBLIC_URL + '/about'}`}
             component={About}
           />
+          <Route
+            exact
+            path={`${process.env.PUBLIC_URL + '/services'}`}
+            component={Service}
+          />
+          <Route path={`${process.env.PUBLIC_URL + '/service/:serviceID'}`} component={ServiceDetails}/>
           <Route
             exact
             path={`${process.env.PUBLIC_URL + '/contact'}`}

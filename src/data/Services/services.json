@@ -1,13 +1,13 @@
 [
   {
     "id": 1,
-    "title": "Security Cameras and Monitors",
+    "title": "Security Cameras",
     "shortDesc": "CCTV is normally an integral part of an organization’s security matrix. As an electronic security systems integrator, Argus understands this and that is why CCTV systems are a major portion of our operations.",
     "thumb": "service/01.jpg",
     "previewImages": [
-      "service/details/01.jpg",
-      "service/details/02.jpg",
-      "service/details/03.jpg"
+      "service/details/cameras/01.jpg",
+      "service/details/cameras/02.jpg",
+      "service/details/cameras/03.jpg"
     ],
     "aboutServiceDesc": "<p>CCTV is normally an integral part of an organization’s security matrix. As an electronic security systems integrator, Argus understands this and that is why CCTV systems are a major portion of our operations. We possess vast experience and expertise in systems design, supply, installation and maintenance of CCTV systems including cameras, cabling and all head end equipment. We work with a range of quality CCTV manufacturers to provide the best possible solution to meet your requirements. We also pride ourselves on being able to offer a cost effective solution for every sector of the market.</p>",
     "features": [
@@ -21,9 +21,9 @@
     "shortDesc": "Automatic Gate Systems include a variety of systems. For parking and tollways, our Security Gates can be compatible with our Identiv access control system or the barrier systems can be stand-alone.",
     "thumb": "service/02.jpg",
     "previewImages": [
-      "service/details/01.jpg",
-      "service/details/02.jpg",
-      "service/details/03.jpg"
+      "service/details/gates/01.jpg",
+      "service/details/gates/02.jpg",
+      "service/details/gates/03.jpg"
     ],
     "aboutServiceDesc": "<p>Automatic Gate Systems include a variety of systems. For parking and tollways, our Security Gates can be compatible with our Identiv access control system or the barrier systems can be stand-alone. Argus handles a wide range of such barriers such as Magnetic AutoControl and Leda and FAAC that has excellent value and quality. We also are experienced with super high security vehicle barriers – from Delta Scientific - that are often used to protect airports, embassies, high security military installations, critical infrastructure and similar. Our pedestrian barriers – also Magnetic AutoControl -- are of solid manufacture with modern design, and are installed in office buildings throughout the country.",
     "features": [
@@ -37,9 +37,9 @@
     "shortDesc": "Biometrics are body measurements and calculations related to human characteristics.",
     "thumb": "service/03.jpg",
     "previewImages": [
-      "service/details/01.jpg",
-      "service/details/02.jpg",
-      "service/details/03.jpg"
+      "service/details/bio/01.jpg",
+      "service/details/bio/02.jpg",
+      "service/details/bio/03.jpg"
     ],
     "aboutServiceDesc": "<p>Biometrics are body measurements and calculations related to human characteristics. Biometrics authentication (or realistic authentication) is used in computer science as a form of identification and access control. It is also used to identify individuals in groups that are under surveillance.</p>",
     "features": [
@@ -53,9 +53,9 @@
     "shortDesc": "For ease of access in communication system within building of businesses or residential, video intercom is one of the system to manage telephone networks.",
     "thumb": "service/04.jpg",
     "previewImages": [
-      "service/details/01.jpg",
-      "service/details/02.jpg",
-      "service/details/03.jpg"
+      "service/details/intercoms/01.jpg",
+      "service/details/intercoms/02.jpg",
+      "service/details/intercoms/03.jpg"
     ],
     "aboutServiceDesc": "<p>For ease of access in communication system within building of businesses or residential, video intercom is one of the system to manage telephone networks. Argus supply you businesses or residential a communication system from installation to after sales support with Fermax Video Intercoms to keep communication between inside and outside of the building or facilities.</p>",
     "features": [
@@ -69,9 +69,9 @@
     "shortDesc": "Access Control is normally a fundamental aspect of security and safety of a building or other facility. Access control includes electronic door access that include identity management including badging and cyber security We provide physical security and secure identification that address the markets for physical and logical access and RFID-enabled applications.",
     "thumb": "service/05.jpg",
     "previewImages": [
-      "service/details/01.jpg",
-      "service/details/02.jpg",
-      "service/details/03.jpg"
+      "service/details/access/01.jpg",
+      "service/details/access/02.jpg",
+      "service/details/access/03.jpg"
     ],
     "aboutServiceDesc": "<p>Access Control is normally a fundamental aspect of security and safety of a building or other facility. Access control includes electronic door access that include identity management including badging and cyber security We provide physical security and secure identification that address the markets for physical and logical access and RFID-enabled applications.</p>",
     "features": [
@@ -81,13 +81,13 @@
   },
   {
     "id": 6,
-    "title": "Walk Through Metal Detectors",
+    "title": "Metal Detectors",
     "shortDesc": "Argus has supplied and installed hundreds of metal detection systems throughout the country. We have in-house technicians who are experts on a range of walk-through metal detection units that are used in airports, seaports, banks, office buildings, hotels, casinos, and many other facilities. We work with the best brand in the business, CEIA.",
     "thumb": "service/06.jpg",
     "previewImages": [
-      "service/details/03.jpg",
-      "service/details/01.jpg",
-      "service/details/02.jpg"
+      "service/details/detector/03.jpg",
+      "service/details/detector/01.jpg",
+      "service/details/detector/02.jpg"
     ],
     "aboutServiceDesc": "<p>Argus has supplied and installed hundreds of metal detection systems throughout the country. We have in-house technicians who are experts on a range of walk-through metal detection units that are used in airports, seaports, banks, office buildings, hotels, casinos, and many other facilities. We work with the best brand in the business, CEIA.</p>",
     "features": [
