@@ -2,10 +2,6 @@ import React from 'react';
 import SlickSlider from '../../components/UI/Slick';
 import List from '../../components/UI/List';
 import LI from '../../components/UI/List/Item';
-import IconBox from '../../components/IconBox';
-import Text from '../../components/UI/Text';
-
-import HowWeWorksData from '../../data/HowWeWorks/how-we-works';
 
 const ServiceContentWrap = ({
   service,
@@ -50,28 +46,6 @@ const ServiceContentWrap = ({
                 <LI key={indx}>{feature}</LI>
               ))}
             </List>
-          </div>
-
-          <div className='how-we-works-wrap mt-50 mt-sm-35'>
-            <h4>How we work</h4>
-            <Text styles={{ marginBottom: 20 }}>
-              voluptatum deleniti atque corrupti is es et quas stias cepturi
-              sint aete non provident, similique sunt dunt ut labore et dolore
-              magnam aliquam quaerat Neque porro quisquam est, qui dolorem ipsum
-            </Text>
-
-            <div className='how-we-works-content service-details-page'>
-              <div className='row'>
-                {HowWeWorksData.map(iconbox => (
-                  <IconBox
-                    key={iconbox.id}
-                    icon={iconbox.icon}
-                    title={iconbox.title}
-                    text={iconbox.text}
-                  />
-                ))}
-              </div>
-            </div>
           </div>
 
           <div className='pagination-wrap'>

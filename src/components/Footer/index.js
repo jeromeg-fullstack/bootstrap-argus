@@ -4,7 +4,7 @@ import Widget from '../UI/Widget';
 import List from '../UI/List';
 import LI from '../UI/List/Item';
 import { Link } from 'react-router-dom';
-import Logo from '../../assets/img/logo-dark.png';
+import Logo from '../../assets/img/logo-dark.svg';
 
 function Footer() {
   return (

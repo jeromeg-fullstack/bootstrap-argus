@@ -16,7 +16,7 @@ function Services({ classes }) {
             <div className='col-lg-6 col-xl-5 m-auto text-center'>
               <SectionTitle
                 variant='light'
-                title='Products & Services'
+                title='Products'
                 heading='Protect your Home and Business'
               />
             </div>

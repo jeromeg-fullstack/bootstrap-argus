@@ -10,7 +10,9 @@ import ScrollToTop from './helpers/ScrollToTop';
 import About from './pages/About';
 import Contact from './pages/Contact';
 import Service from './pages/Service';
-import ServiceDetails from "./pages/ServiceDetails";
+import ServiceDetails from './pages/ServiceDetails';
+import BlogGridRightSidebar from './pages/BlogGridRightSidebar';
+import BlogDetailsPage from './pages/BlogDetails';
 
 const App = () => {
   return (
@@ -29,10 +31,22 @@ const App = () => {
           />
           <Route
             exact
-            path={`${process.env.PUBLIC_URL + '/services'}`}
+            path={`${process.env.PUBLIC_URL + '/products'}`}
             component={Service}
           />
-          <Route path={`${process.env.PUBLIC_URL + '/service/:serviceID'}`} component={ServiceDetails}/>
+          <Route
+            path={`${process.env.PUBLIC_URL + '/service/:serviceID'}`}
+            component={ServiceDetails}
+          />
+          <Route
+            exact
+            path={`${process.env.PUBLIC_URL + '/blog'}`}
+            component={BlogGridRightSidebar}
+          />
+          <Route
+            path={`${process.env.PUBLIC_URL + '/blog/:blogID'}`}
+            component={BlogDetailsPage}
+          />
           <Route
             exact
             path={`${process.env.PUBLIC_URL + '/contact'}`}
